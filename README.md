@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ayubaahmed
 - I’m interested in solving complex problems and improving the daily lives of everyday people.
-- I’m currently learning BSc Computer Science at Kingstun University London. 
+- I’m currently learning BSc Computer Science at Kingston University London. 
 - How to reach me 
    - email : ayub.120@hotmail.com
    - email : k2015805@kingston.ac.uk
