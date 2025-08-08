@@ -1,4 +1,5 @@
 👋 Hi, I’m Ayub Ahmed
+
 🎓 Computer Science graduate specialising in cybersecurity, SOC operations, and network forensics
 🛠 Confident with Wireshark, Python scripting, and SIEM tools for threat detection and log analysis
 📚 Currently following a structured cybersecurity learning plan covering networking, scripting, cloud security, SIEM, threat hunting, digital forensics, and MITRE ATT&CK
