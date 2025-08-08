@@ -5,5 +5,5 @@
 - 📚 Currently following a structured cybersecurity learning plan covering networking, scripting, cloud security, SIEM, threat hunting, digital forensics, and MITRE ATT&CK
 - 📂 Building hands-on projects in malware analysis, Python log parsing, and SOC-style investigations
 - 🌱 Expanding expertise in AWS Cloud Security and security frameworks (NIST, ISO 27001, Security+)
-- 📫 Reach me: ayub.120@hotmail.com | LinkedIn
+- 📫 Reach me: ayub.120@hotmail.com | LinkedIn: https://www.linkedin.com/in/ayub-ahmed-096533181/
 
