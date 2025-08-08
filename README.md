@@ -6,3 +6,12 @@
 📂 Building hands-on projects in malware analysis, Python log parsing, and SOC-style investigations
 🌱 Expanding expertise in AWS Cloud Security and security frameworks (NIST, ISO 27001, Security+)
 📫 Reach me: ayub.120@hotmail.com | LinkedIn
+
+Give me a GitHub description. Here's how my current one is - 
+
+- 👋 Hi, I’m @ayubaahmed
+- I’m interested in solving complex problems and improving the daily lives of everyday people.
+- I’m a Computer Science graduate at Kingston University London. 
+- How to reach me 
+   - email : ayub.120@hotmail.com
+
