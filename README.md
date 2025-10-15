@@ -1,9 +1,9 @@
-👋 Hi, I’m Ayub Ahmed
+Hi, I’m **Ayub Ahmed**
 
-- 🎓 Computer Science graduate specialising in cybersecurity, SOC operations, and network forensics
-- 🛠 Confident with Wireshark, Python scripting, and SIEM tools for threat detection and log analysis
-- 📚 Currently following a structured cybersecurity learning plan covering networking, scripting, cloud security, SIEM, threat hunting, digital forensics, and MITRE ATT&CK
-- 📂 Building hands-on projects in malware analysis, Python log parsing, and SOC-style investigations
-- 🌱 Expanding expertise in AWS Cloud Security and security frameworks (NIST, ISO 27001, Security+)
-- 📫 Reach me: ayub.120@hotmail.com | LinkedIn: https://www.linkedin.com/in/ayub-ahmed-096533181/
-
+Cyber Security Analyst with hands-on SOC experience in **incident response**, **SIEM monitoring (Splunk)**, and **vulnerability management**.  
+Skilled in **log analysis**, **phishing detection**, and **Active Directory** administration, with a growing focus on **cloud and application security**.  
+Currently expanding expertise in **AWS security**, **DevSecOps**, and **secure SDLC practices** using tools like **Snyk** and **SonarQube**.  
+Experienced in analysing network traffic, malware infections, and privilege escalation techniques mapped to **MITRE ATT&CK**.  
+Regularly building projects and labs in **malware analysis**, **incident reporting**, and **Active Directory exploitation** to strengthen blue-team skills.  
+Certified and continuously developing through **ISO 27001 awareness training**, **CTFs**, and **hands-on security platforms** (TryHackMe, HackTheBox).  
+Reach me: [ayub.120@hotmail.com](mailto:ayub.120@hotmail.com) | [LinkedIn](https://www.linkedin.com/in/ayub
