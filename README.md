@@ -17,6 +17,8 @@ I'm a cyber enthusiast interested in security engineering as a whole: securing s
 - **Incident response:** triage, investigation, containment, lessons learned
 - **DevSecOps:** security in the CI/CD pipeline, shifting left
 - **SIEM tooling:** Microsoft Sentinel, Splunk, IBM QRadar
+- **Arsenal FC:** my blood pressure is monitored by match results, and it's the best alerting setup I've got
+
 
 ## 🐍 Currently Learning
 
